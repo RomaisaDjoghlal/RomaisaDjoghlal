@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi , I'm Romaisa Djoghlal
+
+Web Developer and a Data Science Enthusiast
+CS student 
 
 <!--
 **RomaisaDjoghlal/RomaisaDjoghlal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
